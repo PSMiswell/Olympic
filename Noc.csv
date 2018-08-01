@@ -1,746 +1,319 @@
-Team,NOC
-Belarus,BLR
-Germany,GER
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-France,FRA
-France,FRA
-United States,USA
-Great Britain,GBR
-Great Britain,GBR
-Spain,ESP
-New Zealand,NZL
-United States,USA
-United States,USA
-United States,USA
-New Zealand,NZL
-Great Britain,GBR
-Great Britain,GBR
-Great Britain,GBR
-Russia,RUS
-France,FRA
-Kazakhstan,KAZ
-Germany,GER
-United States,USA
-Great Britain,GBR
-United States,USA
-United States,USA
-Greece,GRE
-Australia,AUS
-Spain,ESP
-Hungary,HUN
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-Great Britain,GBR
-United States,USA
-United States,USA
-United States,USA
-France,FRA
-France,FRA
-France,FRA
-Greece,GRE
-Hungary,HUN
-Hungary,HUN
-United States,USA
-Denmark,DEN
-Denmark,DEN
-Belarus,BLR
-Belarus,BLR
-New Zealand,NZL
-Croatia,CRO
-Italy,ITA
-United States,USA
-Netherlands,NED
-Germany,GER
-Germany,GER
-Germany,GER
-Australia,AUS
-South Africa,RSA
-Russia,RUS
-Russia,RUS
-Russia,RUS
-Croatia,CRO
-New Zealand,NZL
-Australia,AUS
-Croatia,CRO
-Canada,CAN
-Netherlands,NED
-United States,USA
-United States,USA
-Spain,ESP
-Australia,AUS
-Australia,AUS
-Australia,AUS
-Australia,AUS
-China,CHN
-Argentina,ARG
-New Zealand,NZL
-New Zealand,NZL
-Australia,AUS
-Ukraine,UKR
-China,CHN
-China,CHN
-China,CHN
-Russia,RUS
-Romania,ROU
-Brazil,BRA
-United States,USA
-Great Britain,GBR
-United States,USA
-Australia,AUS
-New Zealand,NZL
-United States,USA
-Great Britain,GBR
-Slovenia,SLO
-Great Britain,GBR
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-Australia,AUS
-Zimbabwe,ZIM
-Zimbabwe,ZIM
-Great Britain,GBR
-United States,USA
-United States,USA
-Spain,ESP
-Australia,AUS
-United States,USA
-United States,USA
-Hungary,HUN
-Serbia,SRB
-Romania,ROU
-Romania,ROU
-Romania,ROU
-Romania,ROU
-Australia,AUS
-United States,USA
-Russia,RUS
-Russia,RUS
-Russia,RUS
-Russia,RUS
-Russia,RUS
-Netherlands,NED
-Netherlands,NED
-Netherlands,NED
-United States,USA
-Netherlands,NED
-Great Britain,GBR
-Italy,ITA
-Germany,GER
-United States,USA
-United States,USA
-Germany,GER
-Croatia,CRO
-United States,USA
-Hungary,HUN
-United States,USA
-France,FRA
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Great Britain,GBR
-Ukraine,UKR
-United States,USA
-Romania,ROU
-Great Britain,GBR
-United States,USA
-United States,USA
-Russia,RUS
-Spain,ESP
-United States,USA
-Australia,AUS
-France,FRA
-France,FRA
-Germany,GER
-Germany,GER
-New Zealand,NZL
-New Zealand,NZL
-New Zealand,NZL
-New Zealand,NZL
-United States,USA
-Russia,RUS
-United States,USA
-France,FRA
-Spain,ESP
-South Africa,RSA
-Serbia,SRB
-Italy,ITA
-Italy,ITA
-Germany,GER
-Romania,ROU
-Hungary,HUN
-Hungary,HUN
-Australia,AUS
-United States,USA
-United States,USA
-United States,USA
-Israel,ISR
-Sweden,SWE
-China,CHN
-Poland,POL
-Australia,AUS
-Romania,ROU
-Romania,ROU
-Italy,ITA
-Australia,AUS
-Australia,AUS
-United States,USA
-United States,USA
-France,FRA
-Hungary,HUN
-United States,USA
-Germany,GER
-France,FRA
-Australia,AUS
-Great Britain,GBR
-United States,USA
-United States,USA
-United States,USA
-Great Britain,GBR
-Brazil,BRA
-Great Britain,GBR
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-Germany,GER
-Germany,GER
-Russia,RUS
-Russia,RUS
-Russia,RUS
-Germany,GER
-Germany,GER
-Great Britain,GBR
-Germany,GER
-Netherlands,NED
-China,CHN
-China,CHN
-China,CHN
-China,CHN
-Australia,AUS
-Hungary,HUN
-Australia,AUS
-Australia,AUS
-Australia,AUS
-Japan,JPN
-Netherlands,NED
-United States,USA
-United States,USA
-United States,USA
-Australia,AUS
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-Australia,AUS
-France,FRA
-United States,USA
-China,CHN
-China,CHN
-Netherlands,NED
-United States,USA
-Australia,AUS
-Australia,AUS
-Australia,AUS
-Australia,AUS
-United States,USA
-France,FRA
-Slovakia,SVK
-Slovakia,SVK
-Slovakia,SVK
-Slovakia,SVK
-Slovakia,SVK
-Slovakia,SVK
-Germany,GER
-Australia,AUS
-United States,USA
-Australia,AUS
-Hungary,HUN
-Great Britain,GBR
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-United States,USA
-France,FRA
-Canada,CAN
-China,CHN
-Great Britain,GBR
-United States,USA
-Germany,GER
-Russia,RUS
-Russia,RUS
-Russia,RUS
-Russia,RUS
-Denmark,DEN
-Great Britain,GBR
-Great Britain,GBR
-Poland,POL
-Poland,POL
-Australia,AUS
-China,CHN
-China,CHN
-Germany,GER
-United States,USA
-Croatia,CRO
-United States,USA
-United States,USA
-Australia,AUS
-Australia,AUS
-Denmark,DEN
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Japan,JPN
-Hungary,HUN
-Hungary,HUN
-United States,USA
-United States,USA
-United States,USA
-Russia,RUS
-Russia,RUS
-Belarus,BLR
-Australia,AUS
-Australia,AUS
-Denmark,DEN
-Hungary,HUN
-Russia,RUS
-Russia,RUS
-Russia,RUS
-Hungary,HUN
-Hungary,HUN
-Japan,JPN
-Japan,JPN
-Japan,JPN
-Japan,JPN
-Netherlands,NED
-Australia,AUS
-Australia,AUS
-Ukraine,UKR
-Ukraine,UKR
-Russia,RUS
-Hungary,HUN
-United States,USA
-Netherlands,NED
-Russia,RUS
-Hungary,HUN
-Australia,AUS
-Germany,GER
-Germany,GER
-Germany,GER
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Ukraine,UKR
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-Canada,CAN
-Germany,GER
-Denmark,DEN
-Netherlands,NED
-Netherlands,NED
-Poland,POL
-Germany,GER
-Brazil,BRA
-Germany,GER
-Russia,RUS
-Norway,NOR
-United States,USA
-Great Britain,GBR
-South Africa,RSA
-France,FRA
-Australia,AUS
-Australia,AUS
-Australia,AUS
-France,FRA
-United States,USA
-United States,USA
-Germany,GER
-Germany,GER
-Canada,CAN
-China,CHN
-United States,USA
-United States,USA
-Great Britain,GBR
-Belarus,BLR
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-Great Britain,GBR
-Russia,RUS
-China,CHN
-China,CHN
-Germany,GER
-Australia,AUS
-Poland,POL
-Hungary,HUN
-Hungary,HUN
-Belarus,BLR
-United States,USA
-France,FRA
-Serbia,SRB
-United States,USA
-United States,USA
-Hungary,HUN
-United States,USA
-Slovakia,SVK
-Spain,ESP
-United States,USA
-United States,USA
-Australia,AUS
-United States,USA
-Great Britain,GBR
-Australia,AUS
-United States,USA
-Great Britain,GBR
-United States,USA
-Tunisia,TUN
-Tunisia,TUN
-China,CHN
-France,FRA
-Australia,AUS
-United States,USA
-United States,USA
-Australia,AUS
-Great Britain,GBR
-Australia,AUS
-Australia,AUS
-Serbia,SRB
-Italy,ITA
-Hungary,HUN
-Hungary,HUN
-United States,USA
-Denmark,DEN
-Germany,GER
-France,FRA
-Germany,GER
-United States,USA
-United States,USA
-United States,USA
-Croatia,CRO
-United States,USA
-Italy,ITA
-Great Britain,GBR
-South Africa,RSA
-United States,USA
-Sweden,SWE
-Germany,GER
-Russia,RUS
-Russia,RUS
-Croatia,CRO
-Australia,AUS
-Russia,RUS
-Sweden,SWE
-Ukraine,UKR
-Australia,AUS
-Russia,RUS
-Russia,RUS
-Italy,ITA
-Romania,ROU
-Australia,AUS
-Russia,RUS
-Russia,RUS
-Netherlands,NED
-Australia,AUS
-Australia,AUS
-Great Britain,GBR
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-Italy,ITA
-China,CHN
-Great Britain,GBR
-United States,USA
-Spain,ESP
-Russia,RUS
-France,FRA
-Belarus,BLR
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-Australia,AUS
-Great Britain,GBR
-United States,USA
-Romania,ROU
-Romania,ROU
-Russia,RUS
-Romania,ROU
-New Zealand,NZL
-Romania,ROU
-Serbia,SRB
-Russia,RUS
-Spain,ESP
-Great Britain,GBR
-China,CHN
-China,CHN
-Italy,ITA
-Italy,ITA
-Serbia,SRB
-Germany,GER
-United States,USA
-Australia,AUS
-Great Britain,GBR
-Australia,AUS
-United States,USA
-Germany,GER
-Germany,GER
-Germany,GER
-Germany,GER
-Australia,AUS
-Australia,AUS
-Australia,AUS
-Hungary,HUN
-United States,USA
-Russia,RUS
-Russia,RUS
-Russia,RUS
-Russia,RUS
-Australia,AUS
-Italy,ITA
-United States,USA
-United States,USA
-Canada,CAN
-Germany,GER
-Australia,AUS
-Sweden,SWE
-United States,USA
-Italy,ITA
-Great Britain,GBR
-Germany,GER
-Russia,RUS
-Great Britain,GBR
-Great Britain,GBR
-Australia,AUS
-Australia,AUS
-Australia,AUS
-United States,USA
-Germany,GER
-Germany,GER
-Germany,GER
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-South Africa,RSA
-Germany,GER
-Germany,GER
-Singapore,SGP
-Netherlands,NED
-Germany,GER
-Germany,GER
-Switzerland,SUI
-Great Britain,GBR
-Australia,AUS
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-China,CHN
-China,CHN
-Japan,JPN
-United States,USA
-Russia,RUS
-Russia,RUS
-United States,USA
-Russia,RUS
-Russia,RUS
-Russia,RUS
-Austria,AUT
-Netherlands,NED
-United States,USA
-Croatia,CRO
-Croatia,CRO
-Greece,GRE
-Sweden,SWE
-Australia,AUS
-Netherlands,NED
-United States,USA
-Australia,AUS
-South Africa,RSA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-Slovenia,SLO
-Great Britain,GBR
-Germany,GER
-Germany,GER
-United States,USA
-United States,USA
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Australia,AUS
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Australia,AUS
-France,FRA
-Croatia,CRO
-New Zealand,NZL
-China,CHN
-China,CHN
-China,CHN
-Norway,NOR
-Romania,ROU
-Romania,ROU
-Romania,ROU
-Russia,RUS
-Poland,POL
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Romania,ROU
-China,CHN
-United States,USA
-United States,USA
-Ukraine,UKR
-United States,USA
-United States,USA
-Australia,AUS
-Australia,AUS
-Australia,AUS
-South Africa,RSA
-United States,USA
-United States,USA
-United States,USA
-Australia,AUS
-Australia,AUS
-China,CHN
-China,CHN
-Russia,RUS
-Russia,RUS
-Spain,ESP
-Spain,ESP
-Italy,ITA
-Switzerland,SUI
-Great Britain,GBR
-Great Britain,GBR
-Norway,NOR
-New Zealand,NZL
-United States,USA
-Australia,AUS
-Hungary,HUN
-Netherlands,NED
-Netherlands,NED
-Netherlands,NED
-Netherlands,NED
-Netherlands,NED
-South Africa,RSA
-Netherlands,NED
-United States,USA
-United States,USA
-Canada,CAN
-Netherlands,NED
-Netherlands,NED
-Netherlands,NED
-Netherlands,NED
-United States,USA
-United States,USA
-Germany,GER
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Hungary,HUN
-Russia,RUS
-Russia,RUS
-Netherlands,NED
-United States,USA
-Hungary,HUN
-Hungary,HUN
-France,FRA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-United States,USA
-New Zealand,NZL
-Germany,GER
-Germany,GER
-Germany,GER
-United States,USA
-United States,USA
-Australia,AUS
-United States,USA
-Spain,ESP
-China,CHN
-Denmark,DEN
-Poland,POL
-Germany,GER
-Great Britain,GBR
-Germany,GER
-United States,USA
-United States,USA
-Australia,AUS
-Netherlands,NED
-Germany,GER
-United States,USA
-Great Britain,GBR
-United States,USA
-Australia,AUS
-Germany,GER
-United States,USA
-Germany,GER
-United States,USA
-Great Britain,GBR
-Australia,AUS
-Australia,AUS
-Great Britain,GBR
-United States,USA
-Australia,AUS
-United States,USA
-China,CHN
-China,CHN
-China,CHN
-Germany,GER
-China,CHN
-China,CHN
-China,CHN
-China,CHN
-China,CHN
-China,CHN
-China,CHN
-China,CHN
-Russia,RUS
-Russia,RUS
-Russia,RUS
-Russia,RUS
-China,CHN
-Russia,RUS
-Italy,ITA
+74,Ashley John Callus,M,21,188,85,Gold,Swimming Men's 4 x 100 metres Freestyle Relay,AUS,2000 Summer
+75,Bronte Campbell,F,22,179,58,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,AUS,2016 Summer
+76,Cate Natalie Campbell,F,20,186,67,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,AUS,2012 Summer
+77,Cate Natalie Campbell,F,24,186,67,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,AUS,2016 Summer
+78,Cao Yuan,M,21,160,42,Gold,Diving Men's Springboard,CHN,2016 Summer
+79,Cecilia Carranza Saroli,F,29,164,63,Gold,Sailing Mixed Multihull,ARG,2016 Summer
+94,Nathan Cohen,M,26,184,87,Gold,Rowing Men's Double Sculls,NZL,2012 Summer
+95,"John ""Jack"" Conger",M,21,193,80,Gold,Swimming Men's 4 x 200 metres Freestyle Relay,USA,2016 Summer
+96,"Edward ""Ed"" Coode",M,29,193,96,Gold,Rowing Men's Coxless Fours,GBR,2004 Summer
+97,Iztok op,M,28,190,89,Gold,Rowing Men's Double Sculls,SLO,2000 Summer
+98,"Katherine Sarah ""Kat"" Copeland",F,21,172,58,Gold,Rowing Women's Lightweight Double Sculls,GBR,2012 Summer
+99,Kevin Cordes,M,22,196,88,Gold,Swimming Men's 4 x 100 metres Medley Relay,USA,2016 Summer
+100,Natalie Anne Coughlin (-Hall),F,21,173,63,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2004 Summer
+101,Natalie Anne Coughlin (-Hall),F,21,173,63,Gold,Swimming Women's 100 metres Backstroke,USA,2004 Summer
+102,Natalie Anne Coughlin (-Hall),F,25,173,63,Gold,Swimming Women's 100 metres Backstroke,USA,2008 Summer
+103,Alicia Jayne Coutts,F,24,176,69,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,AUS,2012 Summer
+104,Kirsty Leigh Coventry (-Seward),F,20,176,64,Gold,Swimming Women's 200 metres Backstroke,ZIM,2004 Summer
+105,Kirsty Leigh Coventry (-Seward),F,24,176,64,Gold,Swimming Women's 200 metres Backstroke,ZIM,2008 Summer
+106,James Edward Cracknell,M,28,192,100,Gold,Rowing Men's Coxless Fours,GBR,2000 Summer
+107,"Kameryn Louise ""Kami"" Craig",F,25,181,88,Gold,Water Polo Women's Water Polo,USA,2012 Summer
+108,"Kameryn Louise ""Kami"" Craig",F,29,181,88,Gold,Water Polo Women's Water Polo,USA,2016 Summer
+135,"Madeline Jane ""Maya"" DiRado",F,23,175,65,Gold,Swimming Women's 200 metres Backstroke,USA,2016 Summer
+179,"Zsuzsanna ""Susan"" Francia",F,29,188,80,Gold,Rowing Women's Coxed Eights,USA,2012 Summer
+180,"Melissa Jeanette ""Missy"" Franklin",F,21,188,77,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2016 Summer
+181,Gal Fridman,M,28,183,68,Gold,Sailing Men's Windsurfer,ISR,2004 Summer
+182,Lars Arne Frlander,M,26,184,83,Gold,Swimming Men's 100 metres Butterfly,SWE,2000 Summer
+183,Fu Mingxia,F,22,160,48,Gold,Diving Women's Springboard,CHN,2000 Summer
+184,Magdalena Fularczyk-Kozowska,F,29,173,70,Gold,Rowing Women's Double Sculls,POL,2016 Summer
+185,"Christopher John ""Chris"" Fydler",M,27,197,91,Gold,Swimming Men's 4 x 100 metres Freestyle Relay,AUS,2000 Summer
+186,Liliana Gafencu,F,25,178,76,Gold,Rowing Women's Coxed Eights,ROU,2000 Summer
+187,Liliana Gafencu,F,29,178,76,Gold,Rowing Women's Coxed Eights,ROU,2004 Summer
+188,Rossano Galtarossa,M,28,200,102,Gold,Rowing Men's Quadruple Sculls,ITA,2000 Summer
+189,Felicity Madeline Galvez,F,23,167,58,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,AUS,2008 Summer
+190,Felicity Madeline Galvez,F,23,167,58,Gold,Swimming Women's 4 x 100 metres Medley Relay,AUS,2008 Summer
+191,Mark Daniel Gangloff,M,22,183,84,Gold,Swimming Men's 4 x 100 metres Medley Relay,USA,2004 Summer
+192,Mark Daniel Gangloff,M,26,183,84,Gold,Swimming Men's 4 x 100 metres Medley Relay,USA,2008 Summer
+197,Fabien Pierre Aurlien Dominique Gilot,M,28,193,85,Gold,Swimming Men's 4 x 100 metres Freestyle Relay,FRA,2012 Summer
+198,Drew Cameron Ginn,M,29,195,85,Gold,Rowing Men's Coxless Pairs,AUS,2004 Summer
+199,Helen Rachel M. Glover,F,26,177,67,Gold,Rowing Women's Coxless Pairs,GBR,2012 Summer
+200,Tessa Gobbo,F,25,185,82,Gold,Rowing Women's Coxed Eights,USA,2016 Summer
+201,Scott Daniel Goldblatt,M,25,187,77,Gold,Swimming Men's 4 x 200 metres Freestyle Relay,USA,2004 Summer
+202,Anna Goodale,F,25,183,79,Gold,Rowing Women's Coxed Eights,USA,2008 Summer
+203,"Matthew Anthony W. ""Matt"" Gotrel",M,27,195,95,Gold,Rowing Men's Coxed Eights,GBR,2016 Summer
+204,Martine Soffiatti Grael,F,25,168,62,Gold,Sailing Women's Skiff,BRA,2016 Summer
+205,"Alexander John ""Alex"" Gregory",M,28,198,97,Gold,Rowing Men's Coxless Fours,GBR,2012 Summer
+206,"Matthew ""Matt"" Grevers",M,23,203,105,Gold,Swimming Men's 4 x 100 metres Freestyle Relay,USA,2008 Summer
+207,"Matthew ""Matt"" Grevers",M,23,203,105,Gold,Swimming Men's 4 x 100 metres Medley Relay,USA,2008 Summer
+208,"Matthew ""Matt"" Grevers",M,27,203,105,Gold,Swimming Men's 100 metres Backstroke,USA,2012 Summer
+209,"Matthew ""Matt"" Grevers",M,27,203,105,Gold,Swimming Men's 4 x 100 metres Medley Relay,USA,2012 Summer
+234,Simone Hankin,F,27,182,80,Gold,Water Polo Women's Water Polo,AUS,2000 Summer
+235,"Thomas G. ""Tommy"" Hannan",M,20,188,91,Gold,Swimming Men's 4 x 100 metres Medley Relay,USA,2000 Summer
+236,Brendan Joseph Hansen,M,22,183,85,Gold,Swimming Men's 4 x 100 metres Medley Relay,USA,2004 Summer
+237,Brendan Joseph Hansen,M,26,183,85,Gold,Swimming Men's 4 x 100 metres Medley Relay,USA,2008 Summer
+238,"Joseph ""Joey"" Hansen",M,24,198,97,Gold,Rowing Men's Coxed Eights,USA,2004 Summer
+239,Brooke Louise Hanson (-Clarke),F,26,175,67,Gold,Swimming Women's 4 x 100 metres Medley Relay,AUS,2004 Summer
+240,Adrien Hardy,M,26,197,87,Gold,Rowing Men's Double Sculls,FRA,2004 Summer
+241,Jessica Adele Hardy (-Meichtry),F,25,180,70,Gold,Swimming Women's 4 x 100 metres Medley Relay,USA,2012 Summer
+242,He Chong,M,21,169,69,Gold,Diving Men's Springboard,CHN,2008 Summer
+243,He Zi,F,21,159,51,Gold,Diving Women's Synchronized Springboard,CHN,2012 Summer
+244,"Frederike Johanna Maria ""Femke"" Heemskerk",F,20,180,68,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,NED,2008 Summer
+246,Jodie Clare Henry,F,20,176,63,Gold,Swimming Women's 100 metres Freestyle,AUS,2004 Summer
+247,Jodie Clare Henry,F,20,176,63,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,AUS,2004 Summer
+248,Jodie Clare Henry,F,20,176,63,Gold,Swimming Women's 4 x 100 metres Medley Relay,AUS,2004 Summer
+249,Yvette Higgins,F,22,173,73,Gold,Water Polo Women's Water Polo,AUS,2000 Summer
+250,"Samantha ""Sami"" Hill",F,24,183,89,Gold,Water Polo Women's Water Polo,USA,2016 Summer
+251,Yves Hocd,M,27,181,70,Gold,Rowing Men's Lightweight Coxless Fours,FRA,2000 Summer
+259,Kate Jon-Marie Hooper,F,22,177,73,Gold,Water Polo Women's Water Polo,AUS,2000 Summer
+260,Beau Hoopman,M,23,193,91,Gold,Rowing Men's Coxed Eights,USA,2004 Summer
+261,"Mackenzie ""Mack"" Horton",M,20,190,88,Gold,Swimming Men's 400 metres Freestyle,AUS,2016 Summer
+269,Pierre Houin,M,22,182,74,Gold,Rowing Men's Lightweight Double Sculls,FRA,2016 Summer
+270,Malcolm Howard,M,25,200,100,Gold,Rowing Men's Coxed Eights,CAN,2008 Summer
+271,Hu Jia,M,21,170,58,Gold,Diving Men's Platform,CHN,2004 Summer
+272,"Benjamin ""Ben"" Hunt-Davis",M,28,198,95,Gold,Rowing Men's Coxed Eights,GBR,2000 Summer
+273,Misty Dawn Marie Hyman,F,21,170,65,Gold,Swimming Women's 200 metres Butterfly,USA,2000 Summer
+281,"Thomas Watkin ""Tom"" James",M,28,193,93,Gold,Rowing Men's Coxless Fours,GBR,2012 Summer
+282,Otylia Jdrzejczak,F,20,187,73,Gold,Swimming Women's 200 metres Butterfly,POL,2004 Summer
+283,Micha Jeliski,M,28,194,89,Gold,Rowing Men's Quadruple Sculls,POL,2008 Summer
+284,Iain Jensen,M,24,186,80,Gold,Sailing Men's Skiff,AUS,2012 Summer
+285,Jiao Liuyang,F,20,172,63,Gold,Swimming Women's 200 metres Butterfly,CHN,2012 Summer
+286,Jin Ziwei,F,22,183,75,Gold,Rowing Women's Quadruple Sculls,CHN,2008 Summer
+287,Eric Johannesen,M,24,193,100,Gold,Rowing Men's Coxed Eights,GER,2012 Summer
+288,Ashleigh Johnson,F,21,186,81,Gold,Water Polo Women's Water Polo,USA,2016 Summer
+289,Maro Jokovi,M,24,203,95,Gold,Water Polo Men's Water Polo,CRO,2012 Summer
+304,Elvira Ramilevna Khasyanova,F,23,163,57,Gold,Synchronized Swimming Women's Team,RUS,2004 Summer
+305,Elvira Ramilevna Khasyanova,F,27,163,57,Gold,Synchronized Swimming Women's Team,RUS,2008 Summer
+306,Yekaterina Anatolyevna Khodotovich-Karsten,F,28,185,80,Gold,Rowing Women's Single Sculls,BLR,2000 Summer
+307,"Thomas Jack ""Tom"" King",M,27,181,64,Gold,Sailing Men's Two Person Dinghy,AUS,2000 Summer
+308,"William Ashley ""Bill"" Kirby",M,25,180,77,Gold,Swimming Men's 4 x 200 metres Freestyle Relay,AUS,2000 Summer
+309,Martin Kirketerp Ibsen,M,26,188,80,Gold,Sailing Mixed Skiff,DEN,2008 Summer
+310,Gbor Kis,M,25,194,115,Gold,Water Polo Men's Water Polo,HUN,2008 Summer
+311,Mariya Aleksandrovna Kiselyova,F,25,174,58,Gold,Synchronized Swimming Women's Duet,RUS,2000 Summer
+312,Mariya Aleksandrovna Kiselyova,F,25,174,58,Gold,Synchronized Swimming Women's Team,RUS,2000 Summer
+313,Mariya Aleksandrovna Kiselyova,F,29,174,58,Gold,Synchronized Swimming Women's Team,RUS,2004 Summer
+314,"Gergely ""Gerg"" Kiss",M,22,198,112,Gold,Water Polo Men's Water Polo,HUN,2000 Summer
+315,"Gergely ""Gerg"" Kiss",M,26,198,112,Gold,Water Polo Men's Water Polo,HUN,2004 Summer
+316,Kosuke Kitajima,M,21,178,73,Gold,Swimming Men's 100 metres Breaststroke,JPN,2004 Summer
+317,Kosuke Kitajima,M,21,178,73,Gold,Swimming Men's 200 metres Breaststroke,JPN,2004 Summer
+318,Kosuke Kitajima,M,25,178,73,Gold,Swimming Men's 100 metres Breaststroke,JPN,2008 Summer
+319,Kosuke Kitajima,M,25,178,73,Gold,Swimming Men's 200 metres Breaststroke,JPN,2008 Summer
+320,Noeki Klein,F,25,179,80,Gold,Water Polo Women's Water Polo,NED,2008 Summer
+321,Michael George Klim,M,23,191,81,Gold,Swimming Men's 4 x 100 metres Freestyle Relay,AUS,2000 Summer
+322,Michael George Klim,M,23,191,81,Gold,Swimming Men's 4 x 200 metres Freestyle Relay,AUS,2000 Summer
+323,Yana Oleksandrivna Klochkova,F,22,182,70,Gold,Swimming Women's 200 metres Individual Medley,UKR,2004 Summer
+324,Yana Oleksandrivna Klochkova,F,22,182,70,Gold,Swimming Women's 400 metres Individual Medley,UKR,2004 Summer
+325,Svetlana Konstantinovna Kolesnichenko,F,22,171,53,Gold,Synchronized Swimming Women's Team,RUS,2016 Summer
+347,Hans Thor Juul Kristensen,M,24,186,72,Gold,Rowing Men's Lightweight Coxless Fours,DEN,2004 Summer
+348,Ranomi Kromowidjojo,F,21,180,72,Gold,Swimming Women's 50 metres Freestyle,NED,2012 Summer
+349,Ranomi Kromowidjojo,F,21,180,72,Gold,Swimming Women's 100 metres Freestyle,NED,2012 Summer
+350,Tomasz Bogusaw Kucharski,M,26,181,72,Gold,Rowing Men's Lightweight Double Sculls,POL,2000 Summer
+351,Andreas Kuffner,M,25,196,94,Gold,Rowing Men's Coxed Eights,GER,2012 Summer
+352,Kahena Kunze,F,25,172,68,Gold,Sailing Women's Skiff,BRA,2016 Summer
+356,Breeja Larson,F,20,183,73,Gold,Swimming Women's 4 x 100 metres Medley Relay,USA,2012 Summer
+357,Jack David Laugher,M,21,166,65,Gold,Diving Men's Synchronized Springboard,GBR,2016 Summer
+358,Chad Guy Bertrand le Clos,M,20,190,83,Gold,Swimming Men's 200 metres Butterfly,RSA,2012 Summer
+359,Clment Lefert,M,24,185,73,Gold,Swimming Men's 4 x 100 metres Freestyle Relay,FRA,2012 Summer
+360,"Lisbeth Constance ""Libby"" Lenton-Trickett",F,23,167,60,Gold,Swimming Women's 100 metres Butterfly,AUS,2008 Summer
+361,"Lisbeth Constance ""Libby"" Lenton-Trickett",F,23,167,60,Gold,Swimming Women's 4 x 100 metres Medley Relay,AUS,2008 Summer
+362,"Lisbeth Constance ""Libby"" Lenton-Trickett",F,27,167,60,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,AUS,2012 Summer
+363,Amaury Raymond Leveaux,M,26,202,88,Gold,Swimming Men's 4 x 100 metres Freestyle Relay,FRA,2012 Summer
+364,Jason Edward Lezak,M,24,193,98,Gold,Swimming Men's 4 x 100 metres Medley Relay,USA,2000 Summer
+365,Jason Edward Lezak,M,28,193,98,Gold,Swimming Men's 4 x 100 metres Medley Relay,USA,2004 Summer
+2,Filip Kamil Adamski,M,29,189,87,Gold,Rowing Men's Coxed Eights,GER,2012 Summer
+3,Nathan Ghar-Jun Adrian,M,23,198,100,Gold,Swimming Men's 100 metres Freestyle,USA,2012 Summer
+4,Nathan Ghar-Jun Adrian,M,23,198,100,Gold,Swimming Men's 4 x 100 metres Medley Relay,USA,2012 Summer
+5,Nathan Ghar-Jun Adrian,M,27,198,100,Gold,Swimming Men's 4 x 100 metres Freestyle Relay,USA,2016 Summer
+6,Nathan Ghar-Jun Adrian,M,27,198,100,Gold,Swimming Men's 4 x 100 metres Medley Relay,USA,2016 Summer
+7,Yannick Agnel,M,20,202,90,Gold,Swimming Men's 200 metres Freestyle,FRA,2012 Summer
+8,Yannick Agnel,M,20,202,90,Gold,Swimming Men's 4 x 100 metres Freestyle Relay,FRA,2012 Summer
+9,"Christian ""Chris"" Ahrens",M,28,195,97,Gold,Rowing Men's Coxed Eights,USA,2004 Summer
+10,"Charles Benedict ""Ben"" Ainslie",M,23,183,90,Gold,Sailing Mixed One Person Dinghy,GBR,2000 Summer
+11,"Charles Benedict ""Ben"" Ainslie",M,27,183,90,Gold,Sailing Men's One Person Dinghy,GBR,2004 Summer
+12,Marina Alabau Neira,F,26,164,55,Gold,Sailing Women's Windsurfer,ESP,2012 Summer
+13,Jo Qesem Ayela Aleh,F,26,171,58,Gold,Sailing Women's Two Person Dinghy,NZL,2012 Summer
+14,Wyatt Allen,M,25,193,98,Gold,Rowing Men's Coxed Eights,USA,2004 Summer
+15,Alyssa Jean Anderson,F,21,173,64,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2012 Summer
+16,"Elizabeth ""Betsey"" Armstrong",F,29,188,77,Gold,Water Polo Women's Water Polo,USA,2012 Summer
+17,"Thomas John Mitchell ""Tom"" Ashley",M,24,188,70,Gold,Sailing Men's Windsurfer,NZL,2008 Summer
+18,Louis Mark Attrill,M,25,193,95,Gold,Rowing Men's Coxed Eights,GBR,2000 Summer
+19,Sarah Lianne Ayton (-Dempsey),F,24,167,63,Gold,Sailing Women's Three Person Keelboat,GBR,2004 Summer
+20,Sarah Lianne Ayton (-Dempsey),F,28,167,63,Gold,Sailing Women's Three Person Keelboat,GBR,2008 Summer
+21,Yelena Yuryevna Azarova,F,27,165,64,Gold,Synchronized Swimming Women's Team,RUS,2000 Summer
+22,Jrmie Azou,M,27,178,71,Gold,Rowing Men's Lightweight Double Sculls,FRA,2016 Summer
+23,Dmitry Igorevich Balandin,M,21,195,85,Gold,Swimming Men's 200 metres Breaststroke,KAZ,2016 Summer
+24,Carina Br,F,26,185,75,Gold,Rowing Women's Quadruple Sculls,GER,2016 Summer
+25,Amanda Ray Beard (-Brown),F,22,173,59,Gold,Swimming Women's 200 metres Breaststroke,USA,2004 Summer
+26,Anna Rose Bebington-Watkins,F,29,183,78,Gold,Rowing Women's Double Sculls,GBR,2012 Summer
+27,"Barbara Jane ""B. J."" Bedford (-Miller)",F,27,172,61,Gold,Swimming Women's 4 x 100 metres Medley Relay,USA,2000 Summer
+28,"Daniel ""Dan"" Beery",M,29,200,97,Gold,Rowing Men's Coxed Eights,USA,2004 Summer
+29,Sofia Bekatorou (-Kosmatopoulos),F,26,172,62,Gold,Sailing Women's Two Person Dinghy,GRE,2004 Summer
+30,Mathew Belcher,M,29,173,62,Gold,Sailing Men's Two Person Dinghy,AUS,2012 Summer
+31,Mireia Belmonte Garca,F,25,170,59,Gold,Swimming Women's 200 metres Butterfly,ESP,2016 Summer
+32,Tibor Benedek,M,28,190,96,Gold,Water Polo Men's Water Polo,HUN,2000 Summer
+33,Lindsay Dianne Benko (-Mintenko),F,23,185,74,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2000 Summer
+34,Lindsay Dianne Benko (-Mintenko),F,27,185,74,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2004 Summer
+35,Brooke Marie Bennett (-Frioud),F,20,165,57,Gold,Swimming Women's 400 metres Freestyle,USA,2000 Summer
+36,Brooke Marie Bennett (-Frioud),F,20,165,57,Gold,Swimming Women's 800 metres Freestyle,USA,2000 Summer
+37,Paul Bennett,M,27,207,100,Gold,Rowing Men's Coxed Eights,GBR,2016 Summer
+38,"Joseph ""Gunnar"" Bentz",M,20,196,84,Gold,Swimming Men's 4 x 200 metres Freestyle Relay,USA,2016 Summer
+39,"Richard ""Ricky"" Berens",M,20,188,93,Gold,Swimming Men's 4 x 200 metres Freestyle Relay,USA,2008 Summer
+40,"Richard ""Ricky"" Berens",M,24,188,93,Gold,Swimming Men's 4 x 200 metres Freestyle Relay,USA,2012 Summer
+41,Alain Andr Louis Edmond Bernard,M,25,196,90,Gold,Swimming Men's 100 metres Freestyle,FRA,2008 Summer
+42,Alain Andr Louis Edmond Bernard,M,29,196,90,Gold,Swimming Men's 4 x 100 metres Freestyle Relay,FRA,2012 Summer
+43,Jean-Christophe Bette,M,22,186,72,Gold,Rowing Men's Lightweight Coxless Fours,FRA,2000 Summer
+44,Thomas Bimis,M,29,169,69,Gold,Diving Men's Synchronized Springboard,GRE,2004 Summer
+45,Pter Biros,M,24,196,102,Gold,Water Polo Men's Water Polo,HUN,2000 Summer
+46,Pter Biros,M,28,196,102,Gold,Water Polo Men's Water Polo,HUN,2004 Summer
+47,"Kimberly A. ""Kim"" Black",F,21,168,60,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2000 Summer
+48,Henrik Blakskjr,M,29,194,90,Gold,Sailing Mixed Three Person Keelboat,DEN,2000 Summer
+49,Pernille Blume,F,22,170,58,Gold,Swimming Women's 50 metres Freestyle,DEN,2016 Summer
+52,Hamish Byron Bond,M,26,189,89,Gold,Rowing Men's Coxless Pairs,NZL,2012 Summer
+53,Miho Bokovi,M,29,196,96,Gold,Water Polo Men's Water Polo,CRO,2012 Summer
+54,Silvia Bosurgi,F,25,164,59,Gold,Water Polo Women's Water Polo,ITA,2004 Summer
+55,David Alasdair Boudia,M,23,175,73,Gold,Diving Men's Platform,USA,2012 Summer
+56,Marit Bouwmeester,F,28,177,68,Gold,Sailing Women's One Person Dinghy,NED,2016 Summer
+71,Erin Jane Cafaro (-McKenzie),F,25,175,73,Gold,Rowing Women's Coxed Eights,USA,2008 Summer
+72,Erin Jane Cafaro (-McKenzie),F,29,175,73,Gold,Rowing Women's Coxed Eights,USA,2012 Summer
+599,dm Steinmetz,M,24,198,104,Gold,Water Polo Men's Water Polo,HUN,2004 Summer
+600,Barnabs Steinmetz,M,24,196,98,Gold,Water Polo Men's Water Polo,HUN,2000 Summer
+601,Barnabs Steinmetz,M,28,196,98,Gold,Water Polo Men's Water Polo,HUN,2004 Summer
+632,Petria Ann Thomas (-Jones),F,28,173,64,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,AUS,2004 Summer
+633,Petria Ann Thomas (-Jones),F,28,173,64,Gold,Swimming Women's 100 metres Butterfly,AUS,2004 Summer
+634,Petria Ann Thomas (-Jones),F,28,173,64,Gold,Swimming Women's 4 x 100 metres Medley Relay,AUS,2004 Summer
+635,James Thompson,M,25,182,70,Gold,Rowing Men's Lightweight Coxless Fours,RSA,2012 Summer
+636,"Jennifer Elisabeth ""Jenny"" Thompson (-Cumpelik)",F,27,177,69,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,USA,2000 Summer
+637,"Jennifer Elisabeth ""Jenny"" Thompson (-Cumpelik)",F,27,177,69,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2000 Summer
+638,"Jennifer Elisabeth ""Jenny"" Thompson (-Cumpelik)",F,27,177,69,Gold,Swimming Women's 4 x 100 metres Medley Relay,USA,2000 Summer
+639,Ian James Thorpe,M,21,196,104,Gold,Swimming Men's 200 metres Freestyle,AUS,2004 Summer
+640,Ian James Thorpe,M,21,196,104,Gold,Swimming Men's 400 metres Freestyle,AUS,2004 Summer
+641,Tian Liang,M,21,172,60,Gold,Diving Men's Platform,CHN,2000 Summer
+642,Tian Liang,M,24,172,60,Gold,Diving Men's Synchronized Platform,CHN,2004 Summer
+643,Anzhelika Igorevna Timanina,F,23,176,58,Gold,Synchronized Swimming Women's Team,RUS,2012 Summer
+644,Gelena Dmitriyevna Topilina,F,22,175,56,Gold,Synchronized Swimming Women's Team,RUS,2016 Summer
+650,"Andrew ""Andy"" Triggs Hodge",M,29,192,97,Gold,Rowing Men's Coxless Fours,GBR,2008 Summer
+651,Olaf Karl Tufte,M,28,193,94,Gold,Rowing Men's Single Sculls,NOR,2004 Summer
+652,Blair Tuke,M,27,181,78,Gold,Sailing Men's Skiff,NZL,2016 Summer
+653,Anna Tunnicliffe (-Funk),F,25,168,66,Gold,Sailing Women's One Person Dinghy,USA,2008 Summer
+654,Mark David Turnbull,M,26,185,70,Gold,Sailing Men's Two Person Dinghy,AUS,2000 Summer
+673,Dniel Rudolf Varga,M,24,201,96,Gold,Water Polo Men's Water Polo,HUN,2008 Summer
+674,Dnes Andor Varga,M,21,193,96,Gold,Water Polo Men's Water Polo,HUN,2008 Summer
+675,Tams Varga,M,29,201,105,Gold,Water Polo Men's Water Polo,HUN,2004 Summer
+676,Zsolt Varga,M,28,193,96,Gold,Water Polo Men's Water Polo,HUN,2000 Summer
+677,Attila Vri,M,24,200,93,Gold,Water Polo Men's Water Polo,HUN,2000 Summer
+678,Attila Vri,M,28,200,93,Gold,Water Polo Men's Water Polo,HUN,2004 Summer
+679,Yuliya Olegovna Vasilyeva,F,22,177,60,Gold,Synchronized Swimming Women's Team,RUS,2000 Summer
+680,Olga Petrovna Vasyukova,F,20,170,56,Gold,Synchronized Swimming Women's Team,RUS,2000 Summer
+681,"Magdalena Johanna Maria ""Marleen"" Veldhuis",F,29,182,67,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,NED,2008 Summer
+682,Erik K. Vendt,M,27,180,75,Gold,Swimming Men's 4 x 200 metres Freestyle Relay,USA,2008 Summer
+685,Sbastien Jean Servais Vielledent,M,27,190,85,Gold,Rowing Men's Double Sculls,FRA,2004 Summer
+686,Dana Whitney Vollmer (-Grant),F,24,185,68,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2012 Summer
+687,Dana Whitney Vollmer (-Grant),F,24,185,68,Gold,Swimming Women's 100 metres Butterfly,USA,2012 Summer
+688,Dana Whitney Vollmer (-Grant),F,24,185,68,Gold,Swimming Women's 4 x 100 metres Medley Relay,USA,2012 Summer
+689,Dana Whitney Vollmer (-Grant),F,28,185,68,Gold,Swimming Women's 4 x 100 metres Medley Relay,USA,2016 Summer
+690,Bryan Daniel Volpenhein,M,27,191,102,Gold,Rowing Men's Coxed Eights,USA,2004 Summer
+691,Shannon Vreeland,F,20,188,79,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2012 Summer
+692,"Robert Norman ""Rob"" Waddell",M,25,200,103,Gold,Rowing Men's Single Sculls,NZL,2000 Summer
+710,Ferry Weertman,M,24,189,86,Gold,Swimming Men's 10 kilometres Open Water,NED,2016 Summer
+711,Phillipp Wende,M,27,199,90,Gold,Rowing Men's Quadruple Sculls,GER,2012 Summer
+712,Lauren Ashley Wenger (-Trapani),F,28,191,77,Gold,Water Polo Women's Water Polo,USA,2012 Summer
+713,Kieran Martin West,M,22,204,100,Gold,Rowing Men's Coxed Eights,GBR,2000 Summer
+714,Mary Rebecca Whipple,F,28,160,48,Gold,Rowing Women's Coxed Eights,USA,2008 Summer
+715,Tarnee Renee White (-Southwell),F,27,165,58,Gold,Swimming Women's 4 x 100 metres Medley Relay,AUS,2008 Summer
+718,Kristof Wilke,M,27,190,87,Gold,Rowing Men's Coxed Eights,GER,2012 Summer
+719,Laura Ann Wilkinson (-Hulseman),F,22,168,57,Gold,Diving Women's Platform,USA,2000 Summer
+720,"Stephen David ""Steve"" Williams",M,28,189,98,Gold,Rowing Men's Coxless Fours,GBR,2004 Summer
+721,Nathan James Wilmot,M,28,183,64,Gold,Sailing Men's Two Person Dinghy,AUS,2008 Summer
+722,"Madison ""Madi"" Wilson",F,22,179,61,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,AUS,2016 Summer
+723,"Philippa Claire ""Pippa"" Wilson",F,22,171,63,Gold,Sailing Women's Three Person Keelboat,GBR,2008 Summer
+724,Elsie Windes,F,27,178,70,Gold,Water Polo Women's Water Polo,USA,2012 Summer
+725,Taryn Nadine Woods,F,25,175,76,Gold,Water Polo Women's Water Polo,AUS,2000 Summer
+726,Kelsi Worrell,F,22,180,75,Gold,Swimming Women's 4 x 100 metres Medley Relay,USA,2016 Summer
+727,Wu Minxia,F,22,167,52,Gold,Diving Women's Synchronized Springboard,CHN,2008 Summer
+728,Wu Minxia,F,26,167,52,Gold,Diving Women's Springboard,CHN,2012 Summer
+729,Wu Minxia,F,26,167,52,Gold,Diving Women's Synchronized Springboard,CHN,2012 Summer
+374,Ryan Steven Lochte,M,20,188,88,Gold,Swimming Men's 4 x 200 metres Freestyle Relay,USA,2004 Summer
+375,Ryan Steven Lochte,M,24,188,88,Gold,Swimming Men's 4 x 200 metres Freestyle Relay,USA,2008 Summer
+376,Ryan Steven Lochte,M,24,188,88,Gold,Swimming Men's 200 metres Backstroke,USA,2008 Summer
+377,Ryan Steven Lochte,M,27,188,88,Gold,Swimming Men's 4 x 200 metres Freestyle Relay,USA,2012 Summer
+378,Ryan Steven Lochte,M,27,188,88,Gold,Swimming Men's 400 metres Individual Medley,USA,2012 Summer
+379,Esther Ruth  Lofgren,F,27,188,79,Gold,Rowing Women's Coxed Eights,USA,2012 Summer
+380,"Eleanor ""Elle"" Logan",F,20,188,86,Gold,Rowing Women's Coxed Eights,USA,2008 Summer
+381,"Eleanor ""Elle"" Logan",F,24,188,86,Gold,Rowing Women's Coxed Eights,USA,2012 Summer
+382,"Eleanor ""Elle"" Logan",F,28,188,86,Gold,Rowing Women's Coxed Eights,USA,2016 Summer
+383,Constantine Michael Louloudis,M,24,190,92,Gold,Rowing Men's Coxless Fours,GBR,2016 Summer
+384,Igor Vladimirovich Lukashin,M,21,171,70,Gold,Diving Men's Synchronized Platform,RUS,2000 Summer
+385,Luo Xuejuan,F,20,167,64,Gold,Swimming Women's 100 metres Breaststroke,CHN,2004 Summer
+386,Luo Yutong,M,26,165,62,Gold,Diving Men's Synchronized Springboard,CHN,2012 Summer
+387,Manuela Lutze,F,26,185,78,Gold,Rowing Women's Quadruple Sculls,GER,2000 Summer
+388,Linda June MacKenzie (-Single),F,24,161,52,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,AUS,2008 Summer
+389,Natalia Madaj,F,28,175,68,Gold,Rowing Women's Double Sculls,POL,2016 Summer
+390,Norbert Madaras,M,24,191,91,Gold,Water Polo Men's Water Polo,HUN,2004 Summer
+391,Norbert Madaras,M,28,191,91,Gold,Water Polo Men's Water Polo,HUN,2008 Summer
+394,Florent Manaudou,M,21,199,99,Gold,Swimming Men's 50 metres Freestyle,FRA,2012 Summer
+395,Duan Mandi,M,22,202,105,Gold,Water Polo Men's Water Polo,SRB,2016 Summer
+396,Simone Ashley Manuel,F,20,178,73,Gold,Swimming Women's 100 metres Freestyle,USA,2016 Summer
+397,Simone Ashley Manuel,F,20,178,73,Gold,Swimming Women's 4 x 100 metres Medley Relay,USA,2016 Summer
+398,Tams Mrcz,M,26,186,82,Gold,Water Polo Men's Water Polo,HUN,2000 Summer
+399,Melanie Margalis,F,24,173,65,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2016 Summer
+409,"Christopher James ""Chris"" Mears",M,23,172,70,Gold,Diving Men's Synchronized Springboard,GBR,2016 Summer
+410,"Catherine Michelle ""Katie"" Meili",F,25,170,61,Gold,Swimming Women's 4 x 100 metres Medley Relay,USA,2016 Summer
+422,Stefan Mitrovi,M,28,195,91,Gold,Water Polo Men's Water Polo,SRB,2016 Summer
+427,Stephan Mlvig,M,25,180,75,Gold,Rowing Men's Lightweight Coxless Fours,DEN,2004 Summer
+486,Blake Pieroni,M,20,188,86,Gold,Swimming Men's 4 x 100 metres Freestyle Relay,USA,2016 Summer
+487,Adam Robert Pine,M,24,183,80,Gold,Swimming Men's 4 x 100 metres Freestyle Relay,AUS,2000 Summer
+488,Matthew Clive Pinsent,M,29,196,108,Gold,Rowing Men's Coxless Fours,GBR,2000 Summer
+489,Carly Piper (-Ryan),F,20,187,81,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2004 Summer
+490,Constana Pipot-Burcic,F,29,174,64,Gold,Rowing Women's Lightweight Double Sculls,ROU,2000 Summer
+500,Qin Kai,M,22,170,65,Gold,Diving Men's Synchronized Springboard,CHN,2008 Summer
+501,Qin Kai,M,26,170,65,Gold,Diving Men's Synchronized Springboard,CHN,2012 Summer
+502,Nunzia Cinzia Ragusa,F,27,179,70,Gold,Water Polo Women's Water Polo,ITA,2004 Summer
+503,Simone Raineri,M,23,190,93,Gold,Rowing Men's Quadruple Sculls,ITA,2000 Summer
+504,Sava Ranelovi,M,23,193,98,Gold,Water Polo Men's Water Polo,SRB,2016 Summer
+509,Shayne Leanne Reese,F,25,168,62,Gold,Swimming Women's 4 x 100 metres Medley Relay,AUS,2008 Summer
+510,Emily Regan,F,28,188,81,Gold,Rowing Women's Coxed Eights,USA,2016 Summer
+511,Maximilian Reinelt,M,23,195,98,Gold,Rowing Men's Coxed Eights,GER,2012 Summer
+516,"Stephanie Louise ""Steph"" Rice",F,20,176,67,Gold,Swimming Women's 200 metres Individual Medley,AUS,2008 Summer
+517,"Stephanie Louise ""Steph"" Rice",F,20,176,67,Gold,Swimming Women's 400 metres Individual Medley,AUS,2008 Summer
+518,va Risztov,F,26,173,72,Gold,Swimming Women's 10 kilometres Open Water,HUN,2012 Summer
+519,Taylor Ritzel,F,23,188,84,Gold,Rowing Women's Coxed Eights,USA,2012 Summer
+520,Svetlana Alekseyevna Romashina,F,22,173,57,Gold,Synchronized Swimming Women's Duet,RUS,2012 Summer
+521,Svetlana Alekseyevna Romashina,F,22,173,57,Gold,Synchronized Swimming Women's Team,RUS,2012 Summer
+522,Svetlana Alekseyevna Romashina,F,26,173,57,Gold,Synchronized Swimming Women's Duet,RUS,2016 Summer
+523,Svetlana Alekseyevna Romashina,F,26,173,57,Gold,Synchronized Swimming Women's Team,RUS,2016 Summer
+524,Giaan Leigh Rooney,F,21,175,63,Gold,Swimming Women's 4 x 100 metres Medley Relay,AUS,2004 Summer
+525,Massimiliano Edgar Rosolino,M,22,192,88,Gold,Swimming Men's 200 metres Individual Medley,ITA,2000 Summer
+526,Kelly Kristen Rulon,F,27,178,61,Gold,Water Polo Women's Water Polo,USA,2012 Summer
+527,Cierra Runge,F,20,193,85,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2016 Summer
+528,"Benjamin Jon ""Ben"" Rutledge",M,27,194,95,Gold,Rowing Men's Coxed Eights,CAN,2008 Summer
+529,Katrin Rutschow-Stomporowski,F,29,180,79,Gold,Rowing Women's Single Sculls,GER,2004 Summer
+530,Sarah Michelle Ryan,F,27,173,65,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,AUS,2004 Summer
+531,Max Salminen,M,23,197,98,Gold,Sailing Men's Two Person Keelboat,SWE,2012 Summer
+532,Kaitlin Shea Sandeno (-Hogan),F,21,168,54,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,USA,2004 Summer
+533,Alessio Sartori,M,23,200,100,Gold,Rowing Men's Quadruple Sculls,ITA,2000 Summer
+534,"William Spencer ""Will"" Satch",M,27,198,100,Gold,Rowing Men's Coxed Eights,GBR,2016 Summer
+535,Martin Sauer,M,29,169,55,Gold,Rowing Men's Coxed Eights,GER,2012 Summer
+536,Dmitry Ivanovich Sautin,M,26,172,65,Gold,Diving Men's Synchronized Platform,RUS,2000 Summer
+537,"Mohamed Karim ""Moe"" Sbihi",M,28,202,110,Gold,Rowing Men's Coxless Fours,GBR,2016 Summer
+538,Alexander Frederick Yorke Scarlett,M,25,196,98,Gold,Rowing Men's Coxed Eights,GBR,2000 Summer
+539,"Jessicah Lee ""Jess"" Schipper",F,21,170,60,Gold,Swimming Women's 4 x 100 metres Medley Relay,AUS,2008 Summer
+540,"Melanie Rene ""Mel"" Schlanger (-Wright)",F,21,176,65,Gold,Swimming Women's 4 x 200 metres Freestyle Relay,AUS,2008 Summer
+541,"Melanie Rene ""Mel"" Schlanger (-Wright)",F,25,176,65,Gold,Swimming Women's 4 x 100 metres Freestyle Relay,AUS,2012 Summer
+542,Lauren Schmetterling,F,28,180,77,Gold,Rowing Women's Coxed Eights,USA,2016 Summer
+543,Lisa Schmidla,F,25,173,76,Gold,Rowing Women's Quadruple Sculls,GER,2016 Summer
+544,Richard Schmidt,M,25,191,87,Gold,Rowing Men's Coxed Eights,GER,2012 Summer
+569,Alla Anatolyevna Shishkina,F,22,170,54,Gold,Synchronized Swimming Women's Team,RUS,2012 Summer
+570,Alla Anatolyevna Shishkina,F,27,170,54,Gold,Synchronized Swimming Women's Team,RUS,2016 Summer
+571,Lindsay Shoop,F,26,185,79,Gold,Rowing Women's Coxed Eights,USA,2008 Summer
+572,Anna Vladimirovna Shorina,F,21,161,52,Gold,Synchronized Swimming Women's Team,RUS,2004 Summer
+573,Anna Vladimirovna Shorina,F,25,161,52,Gold,Synchronized Swimming Women's Team,RUS,2008 Summer
+574,Mariya Vladimirovna Shurochkina,F,21,164,48,Gold,Synchronized Swimming Women's Team,RUS,2016 Summer
+575,Christoph Sieber,M,29,177,68,Gold,Sailing Men's Windsurfer,AUT,2000 Summer
+576,Alette Hilde Sijbring,F,26,174,68,Gold,Water Polo Women's Water Polo,NED,2008 Summer
+577,Kerry Simmonds,F,27,183,82,Gold,Rowing Women's Coxed Eights,USA,2016 Summer
+578,Martin Sinkovi,M,26,188,95,Gold,Rowing Men's Double Sculls,CRO,2016 Summer
+579,Valent Sinkovi,M,28,187,93,Gold,Rowing Men's Double Sculls,CRO,2016 Summer
+580,Nikolaos Siranidis,M,28,175,75,Gold,Diving Men's Synchronized Springboard,GRE,2004 Summer
+581,Sarah Frederica Sjstrm,F,22,182,76,Gold,Swimming Women's 100 metres Butterfly,SWE,2016 Summer
+582,Tom Slingsby,M,27,186,81,Gold,Sailing Men's One Person Dinghy,AUS,2012 Summer
+583,Miloushka Yasemin Smit,F,23,178,70,Gold,Water Polo Women's Water Polo,NED,2008 Summer
+584,Clark Smith,M,21,206,90,Gold,Swimming Men's 4 x 200 metres Freestyle Relay,USA,2016 Summer
